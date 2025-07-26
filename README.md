@@ -1,6 +1,6 @@
-# nfts
+# Nfts
 chapter 1
-# NFT Minting Practice
+# Behind the scenes in minting NFTs
 
 This is just a small project I worked on to understand how NFTs actually work behind the scenes. Nothing official mostly me playing with testnets, smart contracts, and connecting the frontend to MetaMask.
 
